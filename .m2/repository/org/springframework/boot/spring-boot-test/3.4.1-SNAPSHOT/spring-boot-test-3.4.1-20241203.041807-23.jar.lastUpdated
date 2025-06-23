@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Dec 03 19:51:46 IST 2024
+@default-spring-snapshots-https\://repo.spring.io/snapshot/.lastUpdated=1733235706765
+https\://repo.spring.io/snapshot/.error=Could not transfer artifact org.springframework.boot\:spring-boot-test\:jar\:3.4.1-20241203.041807-23 from/to spring-snapshots (https\://repo.spring.io/snapshot)\: status code\: 403, reason phrase\: Forbidden (403)

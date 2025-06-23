@@ -1,0 +1,55 @@
+2024-11-11 23:14:46,105 - INFO live_transcribe_rs line:104 - 
+Version: 0.3.3
+
+2024-11-11 23:14:46,106 - INFO live_transcribe_rs line:107 - 
+OS info:
+Type: Windows
+Version: 10.0.19045
+Bitness: 64-bit 
+Architecture:Some("x86_64") 
+Edition: Some("Windows 10 Pro")
+
+2024-11-11 23:14:46,106 - INFO live_transcribe_rs line:172 - 
+Starting server on port: 54783
+
+2024-11-11 23:14:46,107 - INFO actix_server::builder line:272 - 
+starting 12 workers
+
+2024-11-11 23:14:46,107 - INFO actix_server::server line:191 - 
+Actix runtime found; starting in Actix runtime
+
+2024-11-11 23:14:46,107 - INFO actix_server::server line:197 - 
+starting service: "actix-web-service-127.0.0.1:54783", workers: 12, listening on: 127.0.0.1:54783
+
+2024-11-11 23:14:46,121 - INFO actix_web::middleware::logger line:424 - 
+127.0.0.1 "GET /getCacheDir HTTP/1.1" 200 74 "-" "axios/1.7.7" 0.000530
+
+2024-11-11 23:16:37,504 - INFO actix_web::middleware::logger line:424 - 
+127.0.0.1 "GET /getCacheDir HTTP/1.1" 200 74 "-" "axios/1.7.7" 0.000118
+
+2025-04-24 19:25:07,297 - INFO live_transcribe_rs line:104 - 
+Version: 0.3.3
+
+2025-04-24 19:25:07,299 - INFO live_transcribe_rs line:107 - 
+OS info:
+Type: Windows
+Version: 10.0.19045
+Bitness: 64-bit 
+Architecture:Some("x86_64") 
+Edition: Some("Windows 10 Pro")
+
+2025-04-24 19:25:07,300 - INFO live_transcribe_rs line:172 - 
+Starting server on port: 54783
+
+2025-04-24 19:25:07,304 - INFO actix_server::builder line:272 - 
+starting 12 workers
+
+2025-04-24 19:25:07,305 - INFO actix_server::server line:191 - 
+Actix runtime found; starting in Actix runtime
+
+2025-04-24 19:25:07,305 - INFO actix_server::server line:197 - 
+starting service: "actix-web-service-127.0.0.1:54783", workers: 12, listening on: 127.0.0.1:54783
+
+2025-04-24 19:25:07,330 - INFO actix_web::middleware::logger line:424 - 
+127.0.0.1 "GET /getCacheDir HTTP/1.1" 200 74 "-" "axios/1.7.7" 0.001203
+

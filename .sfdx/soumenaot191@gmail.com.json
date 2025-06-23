@@ -1,0 +1,12 @@
+{
+  "accessToken": "e6b1d006448534e454e9f4ebeee42dc848cca4d6df20d39ea0bdffb1c1f4202d485fd3809d83a21e36517a3d7712409057acbcfa96bd7a76fb22959ee092f354e59ae3e87b20ea5be5c2eb45d850b90bb6e7725e1ea306c68c9ffe27ce114c169569936b453be3359f3bbd6110bf8ebac02ea4a71853:816d7b276ed4ad2404c0f2080c426a43",
+  "instanceUrl": "https://academyoftechnology733-dev-ed.develop.my.salesforce.com",
+  "orgId": "00DWU00000AP2aL2AT",
+  "username": "soumenaot191@gmail.com",
+  "loginUrl": "https://login.salesforce.com/",
+  "refreshToken": "d25eec0ce34deb465336b7201563161c8d2dc70d47397cd14321c88dddeb0b3b46758c572115df4621d15a094c8b579853277c2b3f47a590c4727ce01bf2a8a0fc6b516a89426c9a8e1039c5bf52e6dbc3822aa955ccded5f42d67bd66:828fad7d278f82150747dd3c5379589d",
+  "clientId": "PlatformCLI",
+  "isDevHub": false,
+  "instanceApiVersion": "62.0",
+  "instanceApiVersionLastRetrieved": "10/22/2024, 7:46:56 PM"
+}

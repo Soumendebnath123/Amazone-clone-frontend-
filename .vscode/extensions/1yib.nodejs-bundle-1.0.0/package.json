@@ -1,0 +1,50 @@
+{
+	"name": "nodejs-bundle",
+	"displayName": "nodejs",
+	"version": "1.0.0",
+	"publisher": "1YiB",
+	"description": "extensions for nodejs",
+	"categories": [
+		"Extension Packs"
+	],
+	"icon": "assets/icon.png",
+	"galleryBanner": {
+		"color": "#339933",
+		"theme": "dark"
+	},
+	"engines": {
+		"vscode": "^1.74.0"
+	},
+	"extensionPack": [
+		"standard.vscode-standard",
+		"rvest.vs-code-prettier-eslint",
+		"yatki.vscode-surround",
+		"jock.svg",
+		"1YiB.svelte-bundle"
+	],
+	"license": "LICENSE",
+	"markdown": "github",
+	"bugs": {
+		"url": "https://github.com/1YiB/vsc-bundle/issues",
+		"email": "1YiB@proton.me"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/1YiB/vsc-bundle"
+	},
+	"homepage": "https://github.com/1YiB/vsc-bundle/tree/main/nodejs",
+	"__metadata": {
+		"id": "da90b4d7-020b-4419-b05e-14e937576a56",
+		"publisherId": "a321960e-effd-4969-8677-5dd0ffa8270e",
+		"publisherDisplayName": "1YiB",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1731938110599,
+		"pinned": false,
+		"preRelease": false,
+		"source": "gallery",
+		"size": 10620
+	}
+}
